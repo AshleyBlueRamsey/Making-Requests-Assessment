@@ -10,7 +10,7 @@ function getAllNames() {
       for (let stars of data) {
         names.push(stars.name);
       }
-      console.log(names;)
+      console.log(names);
     })
 }
 
